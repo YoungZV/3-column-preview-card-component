@@ -18,8 +18,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Screenshot
 
-![Desktop](./screenshots/desktop.png)
-![Mobile](./screenshots/mobile.png)
+![Desktop](./screenshots/dekstop.png)
+![Mobile](./screenshots/mobile 13.05.51.png)
 
 
 ### Links
